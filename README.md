@@ -1,18 +1,3 @@
-"cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/tycoon-dev/ML-Car-Dealership-predictions/blob/main/Projeto_IA.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    };
-
-
-
-
 # ML-Car-Dealership-predictions
 
 A python implementation predicting car prices / age / fuel type. Data scrapped from StandVirtual and used for training the model.
