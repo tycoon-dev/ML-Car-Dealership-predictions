@@ -14,3 +14,10 @@ and Regex, Important features were extracted (e.g: Car price, Car brand, Fuel Ty
 Car price and Age prediction implements both Linear Regression using SKlearn and Catboost Regressor
 Fuel type prediction implements Classification models like Kmeans and Catboost Classificator
 
+# INSTRUCTIONS ON HOW TO RUN
+
+OPTIONAL(Put linksDeCarros.txt inside the same folder if you want to train on a smaller set of entries)
+
+1. COPY carrosFinal.csv to be in same folder as notebook
+2. RUN THE PREDICTIONS
+
