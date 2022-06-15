@@ -1,6 +1,6 @@
 # ML-Car-Dealership-predictions
 
-Original notebook: [![Open In Colab][colab-badge]][colab-notebook]
+Google Colab Notebook [![Open In Colab][colab-badge]][colab-notebook]
 
 [colab-notebook]: <https://colab.research.google.com/github/tycoon-dev/ML-Car-Dealership-predictions/blob/main/Projeto_IA.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
