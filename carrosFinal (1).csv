@@ -1,0 +1,840 @@
+Nome_Do_Carro,ValorEuros,Marca,TipoCombustivel,Quilometragem,Cilindrada,PotenciaMotor,TipoCarro,CaixaDeVelocidades,Ano
+mercedesbenz c 200,18,mercedes-benz,diesel,230389,2143,136,combi,automatic,2015
+mercedesbenz g 300 gd,41750,mercedes-benz,diesel,286379,2996,113,suv,manual,1994
+fiat 500,18900,fiat,gaz,49,999,70,compact,manual,2020
+fiat 500c 1 2 lounge,10900,fiat,gaz,51725,1242,69,cabrio,manual,2014
+opel adam 1 2 glam,11900,opel,gaz,60986,1229,70,mini,manual,2016
+citron c4,3900,citroen,diesel,318895,1560,110,compact,manual,2007
+mini clubman,13490,mini,diesel,147000,1598,116,combi,manual,2013
+hummer h2 6 0 sc luxury,49500,hummer,gpl,94000,5967,325,suv,automatic,2005
+renault clio 1 5 blue dci intens,20250,renault,diesel,13500,1461,85,compact,manual,2021
+bmw x1 18 d sdrive,18490,bmw,diesel,59900,1995,143,suv,manual,2012
+mercedesbenz e 220 d avantgarde,58990,mercedes-benz,diesel,13930,1950,194,combi,automatic,2021
+peugeot 308 sw 1 6 ehdi allure,12500,peugeot,diesel,299000,1560,115,combi,manual,2014
+audi a3 limousine 1 6 tdi s tronic,21900,audi,diesel,108873,1598,116,sedan,automatic,2018
+seat ibiza st 1 4 tdi reference,9990,seat,diesel,172359,1422,90,compact,manual,2016
+porsche macan s,54900,porsche,diesel,136528,2967,258,suv,automatic,2016
+peugeot 2008 1 2 puretech gt line,26500,peugeot,gaz,9963,1199,130,suv,manual,2020
+land rover range rover evoque 2 0 d150 awd rdynamic auto,32990,land-rover,diesel,114665,1999,150,suv,automatic,2017
+bmw 320 d touring auto,25750,bmw,diesel,133000,1995,190,combi,automatic,2017
+audi q7 3 0 tdi etron quattro tiptronic,57000,audi,hibride-diesel,225000,2967,374,suv,automatic,2016
+mercedesbenz c 43 amg 4matic,68500,mercedes-benz,gaz,69000,2996,390,cabrio,automatic,2019
+toyota avensis s d 2 0 d4d executive,4400,toyota,diesel,280000,1995,110,sedan,manual,2002
+peugeot 308 sw 1 6 bluehdi active,18950,peugeot,diesel,57000,1560,100,combi,manual,2018
+land rover range rover evoque 2 0 d180 awd rdynamic s auto,51900,land-rover,diesel,58296,1999,180,suv,automatic,2019
+nissan navara,27700,nissan,diesel,35321,2300,163,suv,manual,2017
+hyundai scoupe 1 5,2000,hyundai,gaz,204000,1468,84,coupe,manual,1993
+seat ibiza 1 0 style,13450,seat,gaz,81000,999,80,city-car,manual,2018
+citron c4 1 6 hdi 110 sx,4700,citroen,diesel,428881,1560,110,compact,manual,2009
+opel astra sports tourer,14490,opel,diesel,153000,1600,110,combi,manual,2017
+skoda octavia break 1 6 tdi style,12390,skoda,diesel,212034,1598,115,combi,manual,2017
+smart fortwo electric drive passion,14900,smart,electric,16810,400,82,city-car,automatic,2018
+ford focus sw 1 5 tdci trend,12490,ford,diesel,205479,1499,120,combi,manual,2017
+mercedesbenz c 200 cdi elegance blueefficiency,11480,mercedes-benz,diesel,243000,2143,136,combi,manual,2010
+peugeot 308 1 5 bluehdi active,17999,peugeot,diesel,82000,1499,130,city-car,manual,2018
+mercedesbenz e 220 d avantgarde,58990,mercedes-benz,diesel,20643,1950,194,combi,automatic,2021
+renault captur 1 0 tce exclusive,20900,renault,gaz,19750,999,91,compact,manual,2021
+bmw x3 20 d xdrive advantage auto,44500,bmw,diesel,70650,1995,190,suv,automatic,2018
+mercedesbenz 220,18500,mercedes-benz,diesel,212000,2200,180,combi,automatic,2015
+bmw x4 20 d xdrive xline auto,46850,bmw,diesel,88237,1995,190,suv,automatic,2017
+bmw m2 competition auto,71990,bmw,gaz,39000,2979,410,coupe,automatic,2019
+porsche 911,64900,porsche,gaz,112800,3824,355,cabrio,automatic,2005
+renault zoe life 40,16750,renault,electric,35000,,92,city-car,automatic,2018
+bmw 318 d touring dynamic,12400,bmw,diesel,210000,1995,143,combi,manual,2009
+bmw 520 d,15900,bmw,diesel,285400,1995,184,combi,manual,2012
+renault laguna break 1 9 dci dynamique,3750,renault,diesel,240000,1870,120,combi,manual,2001
+porsche 992 turbo s pdk,297500,porsche,gaz,4000,3745,650,cabrio,automatic,2021
+bmw 116 d line sport,16999,bmw,diesel,140143,1496,116,city-car,manual,2016
+peugeot 5008 1 5 bluehdi crossway eat8,25900,peugeot,diesel,121000,1499,130,minivan,automatic,2018
+bmw 550 i auto,29990,bmw,gaz,100000,4395,407,sedan,automatic,2010
+audi a5 sportback 2 0 tdi design,32750,audi,diesel,98000,1968,190,sedan,manual,2017
+mercedesbenz e 220 d amg,39990,mercedes-benz,diesel,87214,1950,194,sedan,automatic,2016
+peugeot 508 sw 2 0 hdi allure am6,14900,peugeot,diesel,155000,1997,163,combi,automatic,2012
+chrysler voyager 2 5 crd se,7500,chrysler,diesel,203414,2499,140,minivan,manual,2009
+jaguar ipace s awd aut,56900,jaguar,electric,39000,500,400,suv,automatic,2019
+opel astra caravan 1 7 dti select,3750,opel,diesel,259090,1686,75,combi,manual,2005
+maserati ghibli 3 0 v6,54990,maserati,diesel,83000,2987,275,city-car,automatic,2016
+fiat 500l 1 6 mj pop star,16990,fiat,diesel,141000,1598,120,suv,manual,2016
+ford mondeo sw 2 0 tdci titanium,8250,ford,diesel,212335,1997,140,combi,manual,2010
+bmw 316 d touring advantage auto,24499,bmw,diesel,63019,1995,116,combi,automatic,2017
+renault talisman sport tourer 1 5 dci zen p business,17900,renault,diesel,110000,1461,110,combi,manual,2018
+porsche cayenne standard,45000,porsche,diesel,245000,2967,263,suv,automatic,2015
+bmw 118 d,16950,bmw,diesel,72650,1995,143,coupe,manual,2010
+opel astra caravan 1 9 cdti cosmo,6990,opel,diesel,240000,1910,150,combi,manual,2005
+vw polo 1 4 tdi confortline dsg,12900,vw,diesel,180000,1422,90,city-car,automatic,2014
+audi a4 avant 2 0 tdi advance s tronic,22500,audi,diesel,156978,1968,122,combi,automatic,2017
+seat ibiza 1 4 tdi reference,12500,seat,diesel,109270,1422,90,city-car,manual,2017
+audi a4 avant 1 9 tdi m5 exclusive,5950,audi,diesel,276000,1896,130,combi,manual,2002
+mercedesbenz slk 200 be,25900,mercedes-benz,gaz,96837,1796,183,cabrio,manual,2012
+mercedesbenz glc 220 d 4matic edition,69500,mercedes-benz,diesel,16987,1950,194,suv,automatic,2020
+mercedesbenz e 300 d amg line,59900,mercedes-benz,diesel,46000,1950,245,combi,automatic,2019
+mercedesbenz c 200 amg line,59500,mercedes-benz,gaz,8000,1497,184,coupe,automatic,2021
+mazda cx5 2 2 d evolve hs ht navi,15990,mazda,diesel,180000,2191,150,suv,manual,2014
+mini cabrio cooper d auto,22400,mini,diesel,100000,1995,112,cabrio,automatic,2011
+mercedesbenz c 250 cdi avantgarde blueefficiency aut,19450,mercedes-benz,diesel,145000,2143,204,combi,automatic,2011
+volvo v90 2 0 t8 momentum plus awd geartronic,53000,volvo,hibride-gaz,21000,1969,392,combi,automatic,2019
+fiat 500 1 2 pop,8250,fiat,gaz,71000,1242,69,mini,manual,2013
+audi a4 allroad 2 0 tdi quattro advance,13990,audi,diesel,289665,1968,143,combi,manual,2010
+mercedesbenz s 400 d,106000,mercedes-benz,diesel,41939,2925,340,sedan,automatic,2020
+bmw x5 m m50 d,85500,bmw,diesel,110000,2993,400,suv,automatic,2018
+bmw 530 da,11900,bmw,diesel,320000,2993,218,sedan,automatic,2004
+bmw 318 d touring auto line sport,17990,bmw,diesel,264923,1995,143,combi,automatic,2013
+mitsubishi l400 2 5 td gl,3265,mitsubishi,diesel,311000,2477,87,minivan,manual,1998
+mercedesbenz c 220,17900,mercedes-benz,diesel,240191,2143,170,combi,manual,2014
+fiat tipo 1 6 mjet lounge tech dct,18490,fiat,diesel,40466,1598,120,city-car,automatic,2019
+renault clio break,12450,renault,diesel,105235,1500,90,combi,manual,2016
+audi a5 sportback 40 tdi sport s tronic,32990,audi,diesel,220000,1968,190,sedan,automatic,2019
+smart fortwo electric drive passion,14900,smart,electric,10162,400,82,city-car,automatic,2017
+citron c4 1 6hdi90,10900,citroen,diesel,232587,1560,92,sedan,manual,2013
+renault laguna break 1 5 dci dynamique s,6850,renault,diesel,201000,1461,110,combi,manual,2008
+audi a6 allroad 3 0 tdi quattro adv s tronic,35980,audi,diesel,155905,2967,218,combi,automatic,2016
+opel insignia sports tourer 1 6 cdti executive s s,16490,opel,diesel,87385,1598,136,combi,manual,2016
+mercedesbenz c 220 d avantgarde aut,21990,mercedes-benz,diesel,308800,2143,170,combi,automatic,2017
+volvo xc 60 2 0 d3 drive momentum start stop,19000,volvo,diesel,140000,1984,163,suv,manual,2011
+toyota auris touring sports 1 4 d4d c p sport navi,18900,toyota,diesel,78954,1364,90,combi,manual,2017
+ford focus 1 4 ambiente,1750,ford,gaz,258939,1388,75,compact,manual,2000
+bmw 118 d,16900,bmw,diesel,232000,1995,143,cabrio,manual,2011
+land rover range rover velar,65900,land-rover,diesel,86468,1999,241,suv,automatic,2018
+mercedesbenz e 220 cdi elegance,3500,mercedes-benz,diesel,426800,2151,125,sedan,manual,1998
+renault captur 1 5 dci exclusive edc,26900,renault,diesel,19515,1461,115,suv,automatic,2020
+mini cooper d auto,18990,mini,diesel,90000,1496,116,city-car,automatic,2015
+audi q5 2 0 tdi sport stronic,20750,audi,diesel,210000,1968,170,suv,automatic,2010
+peugeot 5008,9450,peugeot,diesel,274146,1560,110,minivan,manual,2009
+fiat tipo 1 3 mjet lounge,11290,fiat,diesel,225434,1248,95,compact,manual,2018
+renault zoe,11350,renault,electric,35000,,88,compact,automatic,2015
+citron c3 aircross 1 2 puretech cseries,21990,citroen,gaz,70,1199,110,compact,manual,2022
+smart fortwo 1 0 71 passion aut,12750,smart,gaz,50000,999,71,cabrio,automatic,2016
+mercedesbenz e 300 bluetec hybrid avantgarde,22000,mercedes-benz,hibride-diesel,232000,2143,231,combi,automatic,2014
+bmw 118 d pack m,12990,bmw,diesel,209000,1995,143,compact,manual,2009
+renault scnic,4700,renault,diesel,212000,1461,105,compact,manual,2006
+vw passat variant 2 0 tdi confortline dsg,18950,vw,diesel,220134,1968,150,combi,automatic,2018
+bmw x1 20 d xdrive auto,25850,bmw,diesel,153250,1995,190,suv,automatic,2015
+mercedesbenz a 200 cdi avantgarde,7750,mercedes-benz,diesel,270000,1992,140,compact,manual,2005
+bmw m550d xdrive auto,37900,bmw,diesel,191438,2993,381,sedan,automatic,2013
+lexus nx 300h f sport 4wd,32900,lexus,hibride-gaz,100000,2494,197,suv,automatic,2016
+renault clio 1 5 blue dci intens,19900,renault,diesel,132000,1461,115,compact,manual,2019
+audi a4,13400,audi,diesel,207490,1968,136,sedan,manual,2010
+renault captur 1 0 tce exclusive,21900,renault,gaz,20364,999,91,suv,manual,2021
+smart fortwo pure cdi 41,4750,smart,diesel,202000,799,41,city-car,automatic,2005
+mercedesbenz e 250 cdi avantgarde be auto,23790,mercedes-benz,diesel,264432,2143,204,combi,automatic,2013
+vw golf 2 0 tdi confortline,3200,vw,diesel,314619,1968,140,compact,manual,2004
+jaguar xj 5 0 v8 s c lwb supersport,37500,jaguar,gaz,146000,5000,510,sedan,automatic,2010
+smart fortwo electric drive passion,13900,smart,electric,19182,400,82,city-car,automatic,2017
+bmw m4 auto,74990,bmw,gaz,43433,2979,431,coupe,automatic,2018
+peugeot 308 1 6 hdi active,10490,peugeot,diesel,233417,1560,92,compact,manual,2015
+citron xsara break 1 4 hdi sx plus,3400,citroen,diesel,223749,1398,69,combi,manual,2004
+citron c3 aircross 1 2 puretech cseries,21950,citroen,gaz,79,1199,110,suv,manual,2021
+opel astra caravan 1 6 elegance easytronic,6900,opel,gaz,154800,1598,105,combi,automatic,2005
+audi a3 1 6 attraction,2500,audi,gaz,259138,1595,102,compact,manual,2001
+mercedesbenz cla 35 amg 4matic,65990,mercedes-benz,gaz,26214,1991,306,combi,automatic,2019
+opel astra sports tourer 1 5 d business edition s s,23990,opel,diesel,14900,1496,122,combi,manual,2021
+renault mgane 1 2 tce limited ss,15900,renault,gaz,79600,1197,115,compact,manual,2017
+citron c4 grand picasso,6500,citroen,diesel,220000,1600,112,minivan,automatic,2009
+bmw m2 auto,55999,bmw,gaz,67050,2979,370,coupe,automatic,2018
+bmw 530 d auto,17999,bmw,diesel,265000,2993,245,sedan,automatic,2010
+mini countryman cooper d,13950,mini,diesel,149750,1598,112,compact,manual,2013
+mercedesbenz cls 350 cdi blueefficiency,26900,mercedes-benz,diesel,219329,2987,265,sedan,automatic,2011
+honda civic tourer 1 6 idtec elegance connect navi,17900,honda,diesel,72199,1597,120,combi,manual,2016
+opel astra caravan 1 3 cdti elegance,4600,opel,diesel,206000,1248,90,combi,manual,2005
+peugeot 3008,23500,peugeot,diesel,135000,1560,120,suv,automatic,2018
+mercedesbenz cls 400 d 4matic,63990,mercedes-benz,diesel,108346,2925,340,sedan,automatic,2018
+mini clubman one d,17700,mini,diesel,129931,1496,116,combi,manual,2017
+audi a4 avant 1 9 tdi m6 sport,6999,audi,diesel,380000,1896,130,combi,manual,2003
+vw passat variant 1 6 tdi trendline,12390,vw,diesel,255364,1598,120,combi,manual,2016
+vw golf variant 1 0 tsi gps edition,18900,vw,gaz,70832,999,115,combi,manual,2018
+opel corsa 1 2 edition,17950,opel,gaz,17000,1199,75,compact,manual,2021
+bmw 525,15450,bmw,diesel,247000,1995,218,sedan,automatic,2012
+peugeot 3008 1 5 bluehdi active pack,34000,peugeot,diesel,2000,1499,130,suv,manual,2021
+bmw 420 gran coup d pack m auto,34500,bmw,diesel,59000,1995,190,sedan,automatic,2017
+peugeot 3008 1 6 bluehdi allure eat6 j18,24900,peugeot,diesel,139711,1560,120,suv,automatic,2017
+renault master 2 3 dci l2h2 3 5t ss,20990,renault,diesel,215052,2299,145,combi,manual,2016
+mercedesbenz c 300,61750,mercedes-benz,diesel,25573,1950,245,cabrio,automatic,2020
+renault clio sport tourer 1 5 dci dynamique s edc,12990,renault,diesel,161900,1461,90,combi,automatic,2017
+renault clio sport tourer 1 5 dci confort,8990,renault,diesel,211236,1461,90,combi,manual,2015
+volvo v50,7250,volvo,diesel,241000,1560,115,combi,manual,2011
+land rover range rover evoque 2 2 dw12c dynamic,19990,land-rover,diesel,267585,2179,190,suv,manual,2012
+daihatsu cuore 1 0 lx,3490,daihatsu,gaz,70243,989,55,city-car,manual,2003
+ford mondeo sw 2 0 hev vignale,36990,ford,hibride-gaz,15546,1999,187,combi,automatic,2020
+dacia sandero 1 0 sce comfort,10750,dacia,gaz,20000,999,75,compact,manual,2020
+mazda cx3 1 5 sky evolve hs navi,16900,mazda,diesel,184000,1499,105,suv,manual,2017
+renault clio break,10490,renault,diesel,116233,1461,95,compact,manual,2015
+renault mgane 1 5 dci gt line ss,9840,renault,diesel,186400,1461,110,city-car,manual,2014
+land rover range rover sport 3 0 tdv6 hse,85900,land-rover,diesel,45403,2993,258,suv,automatic,2018
+nissan qashqai 1 5 dci nconnecta,15990,nissan,diesel,243082,1461,110,suv,manual,2016
+mazda cx30 2 0 skyg evolve at iactive sport,29490,mazda,gaz,11607,1998,150,suv,automatic,2021
+audi r8 spyder 5 2 fsi v10 s tronic,184000,audi,gaz,69470,5204,540,cabrio,automatic,2017
+bmw m2,54900,bmw,gaz,59000,2979,370,coupe,automatic,2017
+bmw 420 d desportiva m auto,61600,bmw,diesel,10,1995,190,coupe,automatic,2022
+bmw 520 d line luxury auto,14900,bmw,diesel,240000,1995,184,combi,automatic,2011
+smart forfour 1 0 passion 71 aut,11500,smart,gaz,105000,999,71,city-car,automatic,2016
+citron c5,4400,citroen,diesel,217000,1560,109,sedan,manual,2005
+seat ibiza sc 1 2 12v sport,4999,seat,gaz,118000,1198,70,city-car,manual,2009
+bmw 740 d,23999,bmw,diesel,370000,2993,313,sedan,automatic,2013
+mercedesbenz cls 350 cdi,16990,mercedes-benz,diesel,228612,2987,224,sedan,automatic,2009
+citron c4 cactus 1 6 bluehdi feel,15950,citroen,diesel,130000,1560,100,sedan,manual,2018
+fiat tipo station wagon 1 6 mjet lounge dct,18250,fiat,diesel,75900,1598,120,combi,automatic,2019
+renault fluence 1 5 dci exclusive,5950,renault,diesel,208000,1461,105,sedan,manual,2010
+vw tiguan 2 0tdi,10900,vw,diesel,340000,1968,110,suv,manual,2011
+bmw compact,4500,bmw,diesel,243000,1995,150,coupe,manual,2002
+volvo v90,32900,volvo,diesel,90600,1969,150,combi,automatic,2017
+land rover range rover sport 2 0 si4 phev hse dynamic,88900,land-rover,hibride-gaz,56112,1997,404,suv,automatic,2019
+renault mgane 1 5 dci confort,3950,renault,diesel,240000,1461,105,combi,manual,2005
+peugeot 2008 1 6 bluehdi allure,16900,peugeot,diesel,77541,1560,100,suv,manual,2017
+tesla model x 100d,88888,tesla,electric,46000,,525,suv,automatic,2018
+maserati ghibli 3 0 v6 granlusso,62900,maserati,diesel,127710,2987,275,sedan,automatic,2018
+peugeot 308 sw 1 6 bluehdi style,17200,peugeot,diesel,96836,1560,100,combi,manual,2017
+opel astra 2 0 cdti sport start stop,8990,opel,diesel,225122,1956,165,compact,manual,2012
+bmw 216 active tourer,14990,bmw,diesel,216796,1496,116,minivan,manual,2016
+peugeot 2008 1 5 bluehdi allure,25750,peugeot,diesel,27000,1499,102,suv,manual,2020
+bmw m2 competition auto,74000,bmw,gaz,19450,2979,410,coupe,automatic,2019
+bmw 435 i xdrive pack m auto,38900,bmw,gaz,155000,2979,306,coupe,automatic,2014
+vw scirocco 2 0 tdi sport,14600,vw,diesel,249000,1968,140,coupe,manual,2012
+peugeot 508 rxh 2 0 hdi hybrid4 2tronic,14500,peugeot,hibride-diesel,187000,1997,200,combi,automatic,2013
+skoda octavia break 1 6 tdi style,15490,skoda,diesel,133000,1598,110,combi,manual,2016
+nissan qashqai 1 5 dci 360,13990,nissan,diesel,246619,1461,110,suv,manual,2015
+bmw 520 d auto,18800,bmw,diesel,267500,1995,184,sedan,automatic,2010
+renault grand scnic 1 5 dci bose edition ss,10499,renault,diesel,212000,1461,110,minivan,manual,2014
+audi tt coup 1 8 t,9990,audi,gaz,119000,1781,180,cabrio,manual,2002
+dacia duster 1 5 blue dci prestige,25900,dacia,diesel,24487,1461,116,suv,manual,2021
+citron c5 tourer 1 6 hdi vtr,6500,citroen,diesel,208000,1560,110,sedan,manual,2008
+bmw 520 d auto,13690,bmw,diesel,287351,1995,184,combi,automatic,2011
+mercedesbenz a 180 d style aut,34490,mercedes-benz,diesel,20515,1950,116,compact,automatic,2021
+ford fiesta 1 0 ecoboost mhev stline,19990,ford,gaz,20500,998,125,city-car,manual,2021
+bmw x6 m competition,169500,bmw,gaz,7000,4395,625,suv,automatic,2020
+renault captur 1 5 dci exclusive xmod edc,21490,renault,diesel,43618,1461,90,combi,automatic,2019
+opel mokka 1 2 t elegance,25290,opel,gaz,5,1199,100,suv,manual,2022
+peugeot 3008 2 0 hdi hybrid4 90g,13990,peugeot,hibride-diesel,146000,1997,200,suv,automatic,2015
+bmw 118 d,16990,bmw,diesel,129000,1995,143,coupe,manual,2013
+bmw 218 i line sport auto,46900,bmw,gaz,18000,1998,136,coupe,automatic,2021
+audi a4 avant 2 5 tdi attraction,3800,audi,diesel,247000,2496,150,combi,manual,1998
+renault mgane sport tourer 1 5 dci dynamique co2 champion,6290,renault,diesel,263000,1461,90,combi,manual,2012
+nissan qashqai 1 5 dci 360,16490,nissan,diesel,215282,1461,110,suv,manual,2015
+ford puma 1 0 ecoboost mhev stline x,25500,ford,gaz,15809,998,155,suv,manual,2021
+peugeot 308 sw 1 5 bluehdi business line,14980,peugeot,diesel,139000,1499,130,combi,manual,2018
+peugeot 308 sw 1 6 bluehdi access,18950,peugeot,diesel,58000,1560,120,combi,manual,2018
+audi q7 3 0 tdi sport tiptronic,17750,audi,diesel,215000,2967,239,suv,automatic,2008
+mercedesbenz cla 180 d amg line aut,41499,mercedes-benz,diesel,27119,1461,116,combi,automatic,2020
+porsche panamera edition,65000,porsche,diesel,87000,2967,300,sedan,automatic,2015
+nissan qashqai 2 1 6 dci acenta s s,12990,nissan,diesel,231258,1598,130,suv,manual,2013
+audi a4 avant 2 0 tdi advance s tronic,22990,audi,diesel,139596,1968,150,combi,automatic,2017
+smart fortwo 0 8cdis1clc1 450 300 450 301 450 302 450 303,2750,smart,diesel,230000,799,41,mini,automatic,2001
+mercedesbenz gla 45 amg 4matic,42990,mercedes-benz,gaz,38235,1991,360,suv,automatic,2015
+audi q7 3 0 tdi exclusive tiptronic,17490,audi,diesel,347346,2967,233,suv,automatic,2007
+mercedesbenz e 350 d amg,34500,mercedes-benz,diesel,258000,2987,258,combi,automatic,2017
+mercedesbenz b 200 cdi urban,18990,mercedes-benz,diesel,138125,2143,136,compact,manual,2014
+peugeot 807 2 2 hdi pullman,5850,peugeot,diesel,217000,2179,133,minivan,manual,2003
+porsche panamera s ehybrid,64000,porsche,hibride-gaz,97000,2995,416,sedan,automatic,2015
+tesla model s 75d,58500,tesla,electric,48212,,332,sedan,automatic,2017
+peugeot 208 1 2 puretech style,13900,peugeot,gaz,30970,1199,82,sedan,manual,2018
+audi a1 sportback 1 0 tfsi,16750,audi,gaz,69511,999,95,compact,manual,2016
+bmw 116 d advantage,16690,bmw,diesel,186347,1496,116,compact,manual,2016
+porsche panamera platinum edition,49850,porsche,diesel,167000,2967,250,sedan,automatic,2013
+bmw 320 d touring navigation,11800,bmw,diesel,260000,1995,177,combi,manual,2009
+mercedesbenz e 250 amg,53999,mercedes-benz,diesel,120000,1950,245,sedan,automatic,2019
+mercedesbenz e 300 de avantgarde,52900,mercedes-benz,hibride-diesel,42000,1950,306,combi,automatic,2019
+fiat freemont 2 0 mjet cross,14990,fiat,diesel,240000,1956,170,minivan,manual,2016
+renault grand scnic 1 5 dci dynamique s 7l,7490,renault,diesel,260000,1461,110,minivan,manual,2012
+audi a5 sportback 40 tdi s tronic,42750,audi,diesel,85000,1968,190,sedan,automatic,2019
+vw golf 1 6 tdi trendline bluemotion,8250,vw,diesel,258000,1598,105,city-car,manual,2010
+peugeot 208 1 4 hdi access,11500,peugeot,diesel,245592,1398,68,city-car,manual,2013
+jaguar xf,16250,jaguar,diesel,286000,2993,240,sedan,automatic,2010
+bentley flying spur v8,137500,bentley,gaz,21000,3993,507,sedan,automatic,2015
+renault clio 1 5 dci limited,13900,renault,diesel,157626,1461,90,combi,manual,2019
+peugeot 508 sw,31900,peugeot,diesel,103000,1498,130,combi,automatic,2019
+alfa romeo mito 1 3 jtd progression 5kq,6450,alfa-romeo,diesel,222000,1248,95,compact,manual,2011
+mercedesbenz a 45 amg 4matic,66990,mercedes-benz,gaz,5402,1991,388,compact,automatic,2020
+mazda mx5 1 6,11400,mazda,gaz,200000,1598,120,cabrio,manual,1990
+volvo v50 1 6 d nvel 2,5950,volvo,diesel,224000,1560,109,combi,manual,2007
+mercedesbenz c 180 d avantgarde aut,35900,mercedes-benz,diesel,48432,1598,122,combi,automatic,2019
+opel astra caravan 1 7 cdti cosmo,5990,opel,diesel,268411,1686,125,combi,manual,2008
+mercedesbenz a 180 amg line aut,30900,mercedes-benz,gaz,113000,1332,136,sedan,automatic,2019
+fiat 500 0 9 8v twinair lounge,7450,fiat,gaz,153000,875,85,mini,manual,2011
+alfa romeo 4c spider 1750 tbi,69950,alfa-romeo,gaz,4000,1742,240,cabrio,automatic,2017
+volvo v60 2 0 d4 inscription,39800,volvo,diesel,70000,1969,190,combi,manual,2018
+smart forfour electric drive passion,16900,smart,electric,39922,400,82,city-car,automatic,2018
+mercedesbenz c 200 d avantgarde aut,33500,mercedes-benz,diesel,67000,1598,136,combi,automatic,2018
+mercedesbenz a 200 amg line,34800,mercedes-benz,gaz,3222,1332,163,compact,manual,2020
+peugeot 2008,26900,peugeot,diesel,15000,1499,110,suv,manual,2021
+jaguar ipace s awd aut,54900,jaguar,electric,39000,500,400,suv,automatic,2018
+toyota hilux 2 5 d4d 4wd cd,17900,toyota,diesel,300000,2494,120,suv,manual,2009
+vw passat variant 1 6 tdi confortline,12890,vw,diesel,260216,1598,120,combi,manual,2016
+mercedesbenz cl 500 coup,15990,mercedes-benz,gaz,216452,4966,306,coupe,automatic,2003
+toyota auris touring sports,16250,toyota,diesel,226502,1364,90,combi,automatic,2016
+bmw 116 d,23350,bmw,diesel,81000,1496,116,city-car,manual,2019
+bmw 216 gran tourer d advantage,20990,bmw,diesel,67150,1496,116,minivan,manual,2017
+mercedesbenz glc 300 d 4matic,68950,mercedes-benz,diesel,49500,1950,245,suv,automatic,2019
+peugeot 208 1 2 puretech active pack,18990,peugeot,gaz,25500,1199,101,city-car,manual,2021
+citron c3 aircross 1 2 puretech feel,16900,citroen,gaz,44000,1199,82,city-car,manual,2018
+citron ax 14 gti,9999,citroen,gaz,1111,1360,100,city-car,manual,1991
+peugeot 108 top 1 0 evti active,8750,peugeot,gaz,108000,998,68,mini,manual,2014
+peugeot 508 sw,29500,peugeot,diesel,16437,1499,131,combi,manual,2019
+bmw 318 d touring line luxury auto,15990,bmw,diesel,279000,1995,150,combi,automatic,2015
+porsche 911,137500,porsche,gaz,40000,2981,420,cabrio,automatic,2017
+mercedesbenz c 220 cdi be,22250,mercedes-benz,diesel,120000,2143,170,coupe,manual,2013
+seat arona 1 0 tsi xcellence,18350,seat,gaz,12800,999,95,suv,manual,2019
+opel corsa 1 3 cdti enjoy ecoflex,9500,opel,diesel,86000,1248,95,city-car,manual,2012
+audi a3 sportback 2 0 tdi quattro sline,25500,audi,diesel,168544,1968,150,compact,manual,2015
+mercedesbenz e 220 d avantgarde,62500,mercedes-benz,diesel,100,1950,194,combi,automatic,2022
+mercedesbenz 220,6500,mercedes-benz,diesel,365000,2200,143,coupe,manual,2002
+renault master 2 3 dci l2h2 3 5t ss,17490,renault,diesel,210136,2299,145,combi,manual,2016
+audi a4 avant 35 tdi advanced s tronic,41900,audi,diesel,12872,1968,163,combi,automatic,2020
+land rover range rover 3 0 td6 vogue,20900,land-rover,diesel,323000,2926,177,suv,automatic,2003
+seat ibiza st 1 2 tdi style dpf,9800,seat,diesel,145000,1199,75,combi,manual,2011
+toyota aygo 1 0 x,10990,toyota,gaz,74663,998,69,city-car,manual,2018
+mercedesbenz c 220,14500,mercedes-benz,diesel,260000,2143,170,combi,manual,2010
+opel corsa 1 3 cdti city 88g,4990,opel,diesel,321543,1248,95,city-car,manual,2014
+opel crossland 1 2 t business edition,20290,opel,gaz,1500,1199,110,suv,manual,2022
+renault mgane,19900,renault,diesel,126108,1461,110,combi,manual,2017
+porsche cayenne ehybrid,119900,porsche,hibride-gaz,10390,2995,462,suv,automatic,2020
+vw golf variant 1 6 tdi rline,21500,vw,diesel,87947,1598,115,combi,manual,2018
+renault laguna break 1 9 dci privilge,3950,renault,diesel,212000,1870,120,combi,manual,2007
+bmw x3 2 0 d,8790,bmw,diesel,318000,1995,177,suv,manual,2007
+volvo v60 2 0 t6 awd te inscription,56100,volvo,hibride-gaz,5000,1969,340,combi,automatic,2021
+ferrari california t,158000,ferrari,gaz,67800,3855,560,cabrio,automatic,2014
+peugeot 3008 1 5 bluehdi active pack,34900,peugeot,diesel,8200,1499,130,suv,manual,2021
+jaguar fpace 2 0 i4d rsport aut,62850,jaguar,diesel,29484,1999,180,suv,automatic,2019
+renault mgane,1250,renault,diesel,281661,1461,82,sedan,manual,2004
+bmw 630 gran turismo d pack m,45990,bmw,diesel,242736,2993,265,sedan,automatic,2019
+mercedesbenz c 220 cdi avantgarde,13900,mercedes-benz,diesel,315000,2148,170,compact,manual,2008
+renault captur 1 0 tce exclusive,24500,renault,gaz,16902,999,100,sedan,,2021
+renault mgane sport tourer 1 5 dci gt line,8990,renault,diesel,200000,1461,110,combi,manual,2011
+opel astra 1 7 cdti enjoy,9490,opel,diesel,210300,1686,125,city-car,manual,2012
+citron c5,3250,citroen,diesel,215000,1997,110,sedan,manual,2001
+bmw 418 gran coup d pack m auto,36900,bmw,diesel,43000,1995,150,sedan,automatic,2019
+bmw 318 d auto line luxury,17990,bmw,diesel,136254,1995,143,sedan,automatic,2012
+mercedesbenz e 220,5600,mercedes-benz,diesel,341191,2148,150,sedan,automatic,2003
+audi a3 sportback 1 6 tdi,14990,audi,diesel,208394,1598,110,compact,manual,2016
+mercedesbenz c 220 d amg line aut,55990,mercedes-benz,diesel,35500,1950,194,cabrio,automatic,2019
+smart forfour 1 0 71 aut,13997,smart,gaz,26000,999,71,city-car,automatic,2018
+vw golf variant 1 6 tdi confortline,20950,vw,diesel,29000,1598,115,combi,manual,2018
+porsche panamera s ehybrid,46500,porsche,hibride-gaz,233000,2995,416,sedan,automatic,2014
+land rover range rover velar 2 0 d rdynamic s,79950,land-rover,diesel,23140,1999,180,suv,automatic,2020
+mercedesbenz g 63 amg standard,129900,mercedes-benz,gaz,118045,5461,571,suv,automatic,2016
+toyota camry 2 5 hybrid limousine,37950,toyota,hibride-gaz,22000,2487,218,sedan,automatic,2019
+mercedesbenz c 220 cdi avantgarde be start stop,14500,mercedes-benz,diesel,278000,2143,170,combi,manual,2012
+jaguar xf,32500,jaguar,diesel,140000,1999,240,sedan,automatic,2018
+renault mgane coupe 1 5 dci gt line,12490,renault,diesel,129000,1461,110,coupe,manual,2012
+peugeot 3008 1 5 bluehdi active,23900,peugeot,diesel,114000,1499,130,suv,manual,2017
+bmw x2 18 d sdrive auto pack m,39500,bmw,diesel,47032,1995,150,suv,automatic,2018
+renault mgane coupe 1 2 tce gt line ss,11500,renault,gaz,120000,1197,115,coupe,manual,2012
+bmw 525,4850,bmw,diesel,260000,2497,143,sedan,manual,1998
+maserati levante 3 0 v6,74900,maserati,diesel,58922,2987,275,suv,automatic,2017
+vw id 3 pro performance 1st plus,41900,vw,electric,8400,,204,city-car,automatic,2020
+mercedesbenz a 180 d style,24600,mercedes-benz,diesel,35187,1461,109,compact,manual,2018
+renault captur 0 9 tce exclusive,15900,renault,gaz,18200,898,90,suv,manual,2017
+peugeot 308 sw 1 5 bluehdi gt line,19250,peugeot,diesel,149999,1499,130,combi,manual,2018
+mercedesbenz cla 200 cdi urban,19990,mercedes-benz,diesel,253300,1796,136,sedan,manual,2015
+mercedesbenz slk 230 kompressor,11500,mercedes-benz,gaz,225500,2295,193,cabrio,manual,1998
+mercedesbenz a 160 amg line,31000,mercedes-benz,gaz,10426,1332,109,city-car,manual,2021
+audi a4 avant,16000,audi,gaz,201000,1984,211,combi,automatic,2011
+citron c4 cactus 1 2 puretech feel,13900,citroen,gaz,58226,1199,82,compact,manual,2017
+audi sq5 3 0 tdi quattro advance tiptronic,36900,audi,diesel,130838,2967,313,suv,automatic,2013
+jeep renegade 1 6 mjd sport,28900,jeep,diesel,100,1598,130,suv,manual,2022
+opel monterey 3 1 td rs,4400,opel,diesel,269000,3057,114,suv,manual,1994
+vw golf variant 1 6 tdi confortline,15900,vw,diesel,173900,1598,115,combi,manual,2017
+audi a3 sportback 2 0 tdi attraction s tronic,10900,audi,diesel,241778,1968,140,compact,automatic,2010
+bmw 318 d touring line luxury,24500,bmw,diesel,100406,1995,150,combi,manual,2017
+citron xsara break 1 4 hdi sx 03,2950,citroen,diesel,260000,1398,69,combi,manual,2003
+opel corsa 1 3 cdti edition,12250,opel,diesel,84000,1248,95,compact,manual,2018
+bmw 320 d touring,9600,bmw,diesel,235000,1995,163,combi,manual,2007
+volvo v40 2 0 d2 rdesign geartronic,20780,volvo,diesel,122000,1969,120,compact,automatic,2017
+bmw m4,56500,bmw,gaz,136131,2979,431,coupe,automatic,2015
+porsche cayman 3 8 gt4,129900,porsche,gaz,20000,3800,385,coupe,manual,2015
+fiat croma,4200,fiat,diesel,209877,1910,150,combi,manual,2006
+jaguar fpace 2 0 i4d prestige,29900,jaguar,diesel,198000,1999,180,suv,manual,2016
+jaguar xf,24980,jaguar,diesel,214201,1999,180,sedan,automatic,2016
+bmw m3 auto,66990,bmw,gaz,66000,2979,431,sedan,automatic,2016
+mercedesbenz glc 220 d 4matic,64950,mercedes-benz,diesel,26790,1950,194,suv,automatic,2021
+renault captur,24850,renault,gaz,25073,999,100,suv,manual,2020
+renault clio 1 5 dci comfort,8490,renault,diesel,209725,1461,75,city-car,manual,2016
+audi a6 avant 2 0 tdi sline,32900,audi,diesel,153776,1968,190,combi,manual,2016
+tesla model x p100d,110000,tesla,electric,102000,,772,suv,automatic,2019
+renault clio,17400,renault,gaz,15800,999,90,city-car,manual,2021
+porsche panamera s ehybrid,59499,porsche,hibride-gaz,80000,2995,416,compact,automatic,2014
+opel astra caravan 1 7 cdti cosmo plus ecoflex,7900,opel,diesel,150000,1686,110,combi,manual,2010
+peugeot 3008 2 0 bluehdi gt line,27400,peugeot,diesel,111076,1997,150,suv,manual,2017
+bmw 316 d touring,14900,bmw,diesel,222968,1995,116,combi,manual,2014
+audi q2 1 6 tdi sport s tronic,24900,audi,diesel,121081,1598,116,suv,automatic,2017
+renault mgane sport tourer,15900,renault,diesel,125000,1461,110,combi,automatic,2017
+bmw x4 20 d xdrive pack m auto,60865,bmw,diesel,55581,1995,190,suv,automatic,2019
+renault kangoo 1 5 dci dynamique s s,9490,renault,diesel,274015,1461,90,combi,manual,2014
+jaguar xk xkr 4 0 coup,37900,jaguar,gaz,123000,3996,363,coupe,automatic,1998
+mercedesbenz c 250 d advantgarde 4matic aut,33490,mercedes-benz,diesel,90463,2143,204,combi,automatic,2017
+peugeot 3008 1 6 bluehdi gt line eat6,23900,peugeot,diesel,111900,1560,120,suv,automatic,2018
+tesla model s p100d,72150,tesla,electric,140000,,772,sedan,automatic,2017
+vw scirocco 2 0 tdi sport dsg,24990,vw,diesel,94521,1968,184,coupe,automatic,2015
+mercedesbenz e 220 d amg line,57500,mercedes-benz,diesel,84000,1950,194,coupe,automatic,2019
+ford mustang 5 0 tivct gt,75000,ford,gaz,67948,4951,419,coupe,manual,2012
+mercedesbenz s 400,85000,mercedes-benz,diesel,47500,2925,340,sedan,automatic,2018
+hyundai santa fe 2 2 crdi 7wagon style,18950,hyundai,diesel,220000,2199,197,suv,manual,2014
+bmw 540 d xdrive pack m auto,53900,bmw,diesel,127955,2993,320,city-car,automatic,2018
+smart forfour electric drive passion,15900,smart,electric,31349,400,82,city-car,automatic,2018
+seat toledo 2 3 v5,3990,seat,gaz,246000,2324,150,sedan,manual,1999
+vw passat,8990,vw,diesel,286214,1896,105,sedan,manual,2008
+ford mustang mache standard awd,69800,ford,electric,7,,269,suv,automatic,2022
+hyundai i30 1 6 crdi style plus,19500,hyundai,diesel,63362,1598,116,city-car,manual,2019
+porsche cayenne turbo,58990,porsche,gaz,74000,4806,500,suv,automatic,2010
+peugeot 107,7750,peugeot,gaz,99000,998,68,city-car,automatic,2011
+bmw 740 e iperformance pack m,52000,bmw,hibride-gaz,54000,1998,326,sedan,automatic,2016
+bmw m4 auto,65000,bmw,gaz,105000,2979,431,coupe,automatic,2015
+bmw m850i xdrive,111000,bmw,gaz,40000,4395,530,cabrio,automatic,2019
+peugeot 308 sw 1 6 bluehdi style,15490,peugeot,diesel,144000,1560,120,combi,manual,2017
+opel corsae elegance,29900,opel,electric,20223,,136,city-car,automatic,2020
+bmw 318 d line sport,13990,bmw,diesel,260000,1995,143,sedan,manual,2012
+ferrari california,127990,ferrari,gaz,63000,4297,460,cabrio,automatic,2009
+peugeot 2008 1 2 puretech allure eat6,17450,peugeot,gaz,94379,1199,110,suv,automatic,2019
+bmw 320 d,13999,bmw,diesel,250000,1995,177,coupe,manual,2010
+bmw 320 d touring ed advantage auto,23750,bmw,diesel,161328,1995,163,combi,automatic,2017
+nissan patrol gr 2 8 curto,15950,nissan,diesel,225000,2826,115,suv,manual,1994
+audi rs5 sportback,119950,audi,gaz,1935,2894,450,city-car,automatic,2021
+vw golf variant 1 6 tdi highline,12500,vw,diesel,292880,1598,105,combi,manual,2014
+bmw 525 d line luxury auto,37900,bmw,diesel,116000,1995,231,combi,automatic,2017
+mercedesbenz c 200 d amg line aut,28500,mercedes-benz,diesel,152950,1598,136,combi,automatic,2017
+toyota corolla verso 2 2 d4d sol,10400,toyota,diesel,200000,2231,136,minivan,manual,2008
+peugeot 3008,13900,peugeot,diesel,170000,1600,115,suv,automatic,2014
+nissan qashqai 1 5 dci 360,18980,nissan,diesel,101000,1461,110,suv,manual,2016
+renault captur 1 5 dci exclusive,17450,renault,diesel,36100,1461,110,suv,manual,2018
+peugeot 3008 1 6 bluehdi allure eat6 j18,23500,peugeot,diesel,142985,1560,120,suv,automatic,2017
+renault mgane sport tourer 1 5 dci dynamique,7800,renault,diesel,270000,1461,90,combi,manual,2011
+bmw i3 94ah comfort package advance,23500,bmw,electric,59414,400,170,city-car,automatic,2017
+mercedesbenz a 180 d style plus aut,27990,mercedes-benz,diesel,30000,1461,116,compact,automatic,2018
+seat alhambra,5490,seat,diesel,224770,1896,115,minivan,manual,2005
+mercedesbenz s 320 standard,3990,mercedes-benz,gaz,467000,3199,224,sedan,automatic,1999
+renault mgane sport tourer 1 5 dci gt line,16950,renault,diesel,172720,1461,110,combi,manual,2017
+bmw 320 d touring auto,13250,bmw,diesel,165000,1995,177,combi,automatic,2008
+renault captur 1 5 dci exclusive,14900,renault,diesel,151000,1461,90,suv,manual,2015
+porsche panamera standard,59950,porsche,diesel,180000,2967,300,sedan,automatic,2014
+nissan qashqai 1 5 dci tekna na,7750,nissan,diesel,279000,1461,106,sedan,manual,2008
+dacia duster 1 3 tce prestige,19990,dacia,gaz,16000,1332,130,suv,manual,2021
+bmw 218,23900,bmw,diesel,155000,2000,143,coupe,automatic,2014
+opel vectra gts 1 9 cdti,6000,opel,diesel,277000,1910,150,sedan,manual,2008
+ford smax 1 8 tdci titanium 5l,7500,ford,diesel,263733,1753,125,minivan,manual,2007
+ford focus 1 6 tdci trend,5900,ford,diesel,227000,1560,109,compact,manual,2007
+tesla model s 85 perfomance,45000,tesla,electric,231810,,421,sedan,automatic,2013
+vw golf 1 9 tdi confortline,4250,vw,diesel,296000,1896,90,sedan,manual,1999
+bmw 118 d,9500,bmw,diesel,370000,1995,143,compact,manual,2009
+renault mgane coupe 1 4 16v sport,2750,renault,gaz,221952,1390,95,coupe,manual,2001
+audi q5 2 0 tdi quattro sline stronic,30900,audi,diesel,112967,1968,177,suv,automatic,2015
+audi a1 citycarver 30 tfsi,27990,audi,gaz,11000,999,116,compact,manual,2020
+kia stonic 1 0 tgdi drive,20990,kia,gaz,10,998,100,suv,manual,2022
+mercedesbenz c 220 bluetec avantgarde aut,27900,mercedes-benz,diesel,113851,2143,170,sedan,automatic,2014
+renault clio 1 5 dci confort,7890,renault,diesel,214698,1461,90,city-car,manual,2015
+bmw 530 da touring,3500,bmw,diesel,295000,2926,184,combi,automatic,2000
+bmw 123 d,13500,bmw,diesel,299000,1995,204,coupe,manual,2008
+citron c4 cactus 1 2 puretech live,15900,citroen,gaz,73251,1199,82,compact,manual,2017
+land rover range rover evoque 1 5 p160 auto,51900,land-rover,gaz,6000,1498,160,suv,automatic,2021
+bmw 116 d edynamics line sport,19990,bmw,diesel,47251,1496,116,compact,manual,2016
+mercedesbenz c 220 cdi classic,8000,mercedes-benz,diesel,270000,2148,143,sedan,manual,2003
+mercedesbenz c 200 d avantgarde aut,35900,mercedes-benz,diesel,81800,1598,160,combi,automatic,2019
+renault twingo 0 9 tce sport,11990,renault,gaz,28392,898,90,city-car,manual,2016
+bmw x5,44800,bmw,diesel,96577,1995,231,suv,automatic,2017
+bmw 520 d auto,31990,bmw,diesel,215000,1995,190,sedan,automatic,2019
+bmw 320,12900,bmw,diesel,161035,1995,177,sedan,manual,2009
+peugeot 207 cc 1 6 16v,6990,peugeot,gaz,159000,1598,120,cabrio,manual,2010
+bmw x1 16 d sdrive advantage,19490,bmw,diesel,266643,1496,116,suv,manual,2017
+nissan qashqai 1 6 dci nconnecta 18 ps xtronic,22990,nissan,diesel,92792,1598,130,suv,automatic,2016
+ford fiesta 1 0 t ecoboost titanium powershift,12500,ford,gaz,100000,998,100,city-car,automatic,2015
+nissan qashqai 1 5 dci nconnecta business,21700,nissan,diesel,81478,1461,110,suv,manual,2017
+opel corsa 1 3 cdti business edition,12500,opel,diesel,103352,1248,95,city-car,manual,2018
+ford ka 1 2 tivct black white edition,12900,ford,gaz,19000,1196,85,city-car,manual,2018
+porsche panamera 4 ehybrid,89990,porsche,hibride-gaz,92674,2894,462,coupe,automatic,2017
+opel astra gtc 1 3 cdti,4190,opel,diesel,282000,1248,90,coupe,manual,2008
+peugeot 308 sw 1 6 hdi executive cvm6,5290,peugeot,diesel,281069,1560,110,combi,manual,2008
+nissan qashqai 1 5 dci nconnecta,24750,nissan,diesel,42018,1461,115,suv,manual,2019
+maserati levante 3 0 v6,68500,maserati,diesel,72000,2987,275,suv,automatic,2017
+smart fortwo passion cdi 41,3750,smart,diesel,246000,799,41,mini,automatic,2002
+volvo v40 cross country 2 0 d2 momentum,17950,volvo,diesel,85850,1969,120,compact,manual,2016
+peugeot 3008 1 6 bluehdi allure eat6,21350,peugeot,diesel,150000,1560,120,suv,automatic,2017
+peugeot expert 2 0 hdi l2 confort,10990,peugeot,diesel,288192,1997,128,minivan,manual,2014
+honda civic 2 0 ivtec typer gt,42900,honda,gaz,72176,1996,320,compact,manual,2019
+seat arona 1 6 tdi xcellence,18750,seat,diesel,96866,1598,95,suv,manual,2018
+peugeot 3008 1 6 bluehdi active,21600,peugeot,diesel,114301,1560,120,suv,manual,2017
+ford focus sw 1 5 tdci stline,17900,ford,diesel,142730,1499,120,combi,manual,2017
+skoda enyaq iv 80,56490,skoda,electric,17500,,204,suv,automatic,2021
+mercedesbenz c 220 d avantgarde aut,23990,mercedes-benz,diesel,220000,2143,170,sedan,automatic,2016
+peugeot 3008 1 6 bluehdi crossway eat6,25250,peugeot,diesel,85000,1560,120,suv,automatic,2018
+vw passat 2 0 tdi confortline,21700,vw,diesel,122491,1968,150,sedan,manual,2017
+vw tcross 1 0 tsi style,25000,vw,gaz,10076,999,110,suv,manual,2021
+bmw 520 da touring,9900,bmw,diesel,191450,1995,177,combi,automatic,2007
+opel astra caravan 1 7 cdti cosmo,4990,opel,diesel,259000,1686,100,combi,manual,2004
+audi a3 sportback 1 6 tdi,22990,audi,diesel,66676,1598,116,sedan,manual,2018
+mercedesbenz ml 350 standard,14990,mercedes-benz,gaz,408246,3498,272,suv,automatic,2005
+peugeot 2008 1 2 puretech style,16800,peugeot,gaz,12000,1199,83,suv,manual,2019
+audi q2 1 6 tdi,28500,audi,diesel,35182,1598,116,suv,manual,2019
+peugeot 308 sw 1 6 bluehdi style j17,13499,peugeot,diesel,149000,1560,120,combi,manual,2018
+audi a1 1 4 tdi sline,17980,audi,diesel,117000,1422,90,city-car,manual,2017
+vw golf 1 6 tdi highline,16900,vw,diesel,157000,1598,115,compact,manual,2017
+bmw m4 auto,61000,bmw,gaz,63500,2979,431,coupe,automatic,2015
+abarth 595 1 4 tjet turismo,19900,abarth,gaz,54700,1368,165,mini,manual,2018
+bmw 118 d,8950,bmw,diesel,270000,1995,143,compact,manual,2009
+peugeot 107 1 0 trendy,5980,peugeot,gaz,86000,998,68,compact,manual,2008
+smart fortwo electric drive passion,18499,smart,electric,24189,1000,82,city-car,automatic,2020
+bmw 520 d xdrive pack m auto,47750,bmw,diesel,140000,1995,190,combi,automatic,2019
+renault 4,6000,renault,gaz,68000,1108,50,combi,manual,1982
+opel corsa,2300,opel,diesel,333380,1248,75,city-car,manual,2008
+vw tiguan 1 4 tsi sport 4motion,11400,vw,gaz,150000,1390,150,suv,manual,2008
+seat ibiza sc 1 9 tdi sport dpf,9500,seat,diesel,134275,1896,105,city-car,manual,2008
+peugeot 208 1 2 puretech allure,12990,peugeot,gaz,48500,1199,82,city-car,manual,2017
+fiat punto evo 1 3 mjet dynamic,5850,fiat,diesel,180000,1248,85,city-car,manual,2011
+mini cooper d,11850,mini,diesel,119000,1598,112,city-car,manual,2013
+seat ibiza 1 6 tdi style,19600,seat,diesel,40184,1598,95,city-car,manual,2020
+seat ateca 1 0 tsi reference,18900,seat,gaz,129000,999,115,suv,manual,2019
+peugeot 3008 1 6 bluehdi allure eat6 j18,26900,peugeot,diesel,118000,1560,120,suv,automatic,2017
+mercedesbenz e 220 cdi avantgarde,10900,mercedes-benz,diesel,263028,2148,150,sedan,manual,2006
+toyota bj 40,49999,toyota,diesel,250,2997,76,suv,manual,1980
+vw polo 1 2 tdi match,7900,vw,diesel,130000,1199,75,city-car,manual,2013
+renault zoe intens,10990,renault,electric,70000,,88,mini,automatic,2014
+mercedesbenz e 250 bluetec avantgarde auto,31000,mercedes-benz,diesel,103500,2143,204,sedan,automatic,2015
+mazda mx5 mzr 1 5 rf sky evolve navi,26999,mazda,gaz,43554,1496,131,cabrio,manual,2018
+porsche cayenne platinum edition,61500,porsche,diesel,130000,2967,263,suv,automatic,2017
+smart fortwo 0 8 cdi pulse 54,6750,smart,diesel,202000,799,54,mini,automatic,2011
+mercedesbenz slk 200 k,15900,mercedes-benz,gaz,130000,1796,163,cabrio,manual,2007
+vw polo 1 6 tdi highline,16980,vw,diesel,173854,1598,95,compact,manual,2019
+renault clio 1 5 dci dynamique s,11750,renault,diesel,128000,1461,90,compact,manual,2014
+seat leon st 1 6 tdi style s s,13790,seat,diesel,165292,1598,115,combi,manual,2017
+mercedesbenz s 400 d 4matic,153000,mercedes-benz,diesel,32000,2925,340,sedan,automatic,2021
+toyota iq 1 0kgj10,5500,toyota,gaz,151000,998,68,city-car,manual,2009
+mercedesbenz sl 300,19500,mercedes-benz,gaz,200000,2960,231,compact,automatic,1992
+smart fortwo electric drive passion,17900,smart,electric,25000,,82,cabrio,automatic,2018
+audi a4 avant 1 9 tdi m6 sport,6350,audi,diesel,325570,1896,130,combi,manual,2003
+mitsubishi asx 1 6 mivec intense connect edition,27950,mitsubishi,gaz,20920,1590,117,suv,manual,2020
+renault clio 1 5 dci limited,13990,renault,diesel,190046,1461,90,compact,manual,2018
+mercedesbenz glc 220,57900,mercedes-benz,diesel,46000,2143,163,suv,automatic,2018
+renault kangoo 1 5dcifc1e,3380,renault,diesel,228580,1461,68,minivan,manual,2006
+nissan juke 1 5 dci tekna premium 129g,11490,nissan,diesel,145000,1461,110,suv,manual,2013
+renault twingo 1 0 sce limited,10990,renault,gaz,48389,999,70,mini,manual,2017
+audi a3 sportback 30 tfsi,26000,audi,gaz,11356,999,110,compact,manual,2021
+peugeot 508 sw 1 6 ehdi allure 2tronic 105g,13650,peugeot,diesel,108000,1560,115,combi,automatic,2013
+vw golf 1 2 tsi confortline,10990,vw,gaz,143787,1197,105,sedan,manual,2012
+fiat bravo 1 6 mjet kit sport puro2,7850,fiat,diesel,149000,1598,105,compact,manual,2010
+lancia ypsilon 1 2 s s silver,7490,lancia,gaz,88000,1242,69,compact,manual,2013
+peugeot 308 1 6 bluehdi allure j18 eat6,14750,peugeot,diesel,149000,1560,120,compact,automatic,2017
+kia sportage 1 6 gdi isg nav line,20500,kia,gaz,67000,1591,132,suv,manual,2018
+mercedesbenz gla 220 d amg line,49490,mercedes-benz,diesel,13621,2143,170,suv,automatic,2020
+dodge challenger,60000,dodge,gaz,74000,3597,309,coupe,automatic,2019
+mercedesbenz glc 220 d 4matic,67700,mercedes-benz,diesel,12000,1950,194,suv,automatic,2021
+seat arona 1 0 tsi xcellence,18950,seat,gaz,22000,999,95,suv,manual,2020
+peugeot 5008,10590,peugeot,diesel,239000,1560,115,combi,automatic,2015
+seat ibiza 1 0 style,15390,seat,gaz,14250,999,80,compact,manual,2021
+mitsubishi space star 1 2 intense cvt,13450,mitsubishi,gaz,30000,1193,80,city-car,automatic,2019
+peugeot 308 sw 1 5 bluehdi active,18500,peugeot,diesel,138894,1499,130,combi,manual,2019
+toyota yaris 1 0 vvti comfort p style,9990,toyota,gaz,124000,998,69,city-car,manual,2015
+mercedesbenz c 200 bluetec amg line,24999,mercedes-benz,diesel,120000,1598,136,sedan,manual,2015
+opel astra sports tourer,7900,opel,diesel,230000,1686,110,combi,manual,2011
+mercedesbenz c 350 e,37490,mercedes-benz,hibride-gaz,67167,1991,279,combi,automatic,2018
+hyundai bayon 1 0 tgdi premium,21499,hyundai,gaz,2700,998,102,suv,manual,2021
+mercedesbenz a 180 d progressive aut,39500,mercedes-benz,diesel,10000,1950,116,compact,automatic,2021
+peugeot 508 1 5 bluehdi business line eat8,21999,peugeot,diesel,145000,1499,130,sedan,automatic,2018
+bmw 116 i line sport,18990,bmw,gaz,50750,1499,109,compact,manual,2017
+volvo v40 1 6 d2 momentum powershift,14450,volvo,diesel,180000,1560,115,compact,automatic,2013
+seat ibiza 1 0 reference,15500,seat,gaz,20859,999,80,city-car,manual,2019
+mazda mx5 1 6 16v serie especial,9999,mazda,gaz,81997,1598,110,cabrio,manual,2001
+smart fortwo 0 9 passion 90 aut,12900,smart,gaz,36000,898,90,mini,automatic,2018
+seat alhambra 2 0 tdi style advanced,29900,seat,diesel,73750,1968,150,minivan,manual,2017
+ford cmax 1 5 tdci titanium ps s s,16750,ford,diesel,76345,1499,120,minivan,automatic,2016
+smart fortwo,7350,smart,gaz,73000,999,71,cabrio,automatic,2011
+mercedesbenz e 220 d avantgarde,38750,mercedes-benz,diesel,147044,1950,194,sedan,automatic,2016
+bmw 530 d auto,44250,bmw,diesel,49887,2993,265,combi,automatic,2018
+mini cooper d,16750,mini,diesel,150000,1496,116,city-car,manual,2015
+opel astra sports tourer,11980,opel,gpl,81951,1364,140,combi,manual,2014
+lancia delta 1 6 mjet argento,8900,lancia,diesel,154432,1598,120,compact,manual,2010
+mercedesbenz cls 450,70900,mercedes-benz,hibride-gaz,67453,2999,367,coupe,automatic,2019
+vw passat variant 2 0 tdi confortline,7500,vw,diesel,180000,1968,140,combi,manual,2006
+renault mgane sport tourer 1 5 blue dci limited,17250,renault,diesel,155000,1461,115,combi,manual,2019
+renault laguna break 2 0 dci confort,5500,renault,diesel,240000,1995,150,combi,manual,2008
+bmw x3 25 d xdrive pack m,64900,bmw,diesel,19109,1995,231,suv,automatic,2019
+peugeot 308 sw 1 6 bluehdi active,18900,peugeot,diesel,69374,1560,100,combi,manual,2018
+bmw 520 da touring executive,10900,bmw,diesel,200000,1995,177,combi,automatic,2009
+renault zoe zen 40,26500,renault,electric,1152,,109,city-car,automatic,2020
+bmw 114 d line sport,11500,bmw,diesel,160000,1598,95,compact,manual,2013
+renault twingo 1 0 sce limited,11500,renault,gaz,61506,999,70,mini,manual,2019
+citron mehari emehari,20990,citroen,electric,3000,,68,cabrio,automatic,2017
+seat leon st 1 6 tdi style s s,17290,seat,diesel,116467,1598,115,combi,manual,2018
+vw polo 1 0 confortline ac,3490,vw,gaz,114000,999,50,city-car,manual,2003
+peugeot 2008 1 6 ehdi allure,13500,peugeot,diesel,162000,1560,92,suv,manual,2014
+peugeot 3008 1 5 bluehdi gt line eat8,28990,peugeot,diesel,97296,1499,130,suv,automatic,2019
+bmw 320 d touring navigation,8900,bmw,diesel,250000,1995,177,combi,manual,2009
+opel corsa 1 0 t dynamic,12700,opel,gaz,21832,999,90,city-car,manual,2018
+volvo xc 60 2 0 d4 inscription geartronic,46800,volvo,diesel,98200,1969,190,suv,automatic,2019
+ford focus sw 1 6 tdci titanium,8990,ford,diesel,154619,1560,115,combi,manual,2011
+smart fortwo 1 0 passion 71 aut,10490,smart,gaz,59356,999,71,city-car,automatic,2016
+bmw 320 d,15000,bmw,diesel,201000,1995,177,coupe,manual,2010
+mazda mx5 1 8,16500,mazda,gaz,136000,1840,131,cabrio,manual,1994
+citron ds3 1 6 hdi airdream so chic,9990,citroen,diesel,145000,1560,92,city-car,manual,2011
+renault mgane sport tourer 1 5 dci intens,17250,renault,diesel,158487,1461,110,combi,manual,2016
+peugeot 2008 1 5 bluehdi gt,29500,peugeot,diesel,10576,1499,110,suv,manual,2021
+porsche 930,200000,porsche,gaz,61350,3299,231,cabrio,manual,1989
+peugeot e2008 gt line,37490,peugeot,electric,14730,500,136,suv,automatic,2021
+renault clio break,10900,renault,diesel,142000,1461,90,city-car,manual,2015
+volvo v40 2 0 d2 rdesign,23200,volvo,diesel,82600,1969,120,compact,manual,2017
+hyundai santa fe 2 2 crdi premium,47950,hyundai,diesel,20088,2199,200,suv,automatic,2020
+datsun fairlady,44000,datsun,gaz,1000,1600,96,cabrio,manual,1969
+vw up,12980,vw,gaz,32995,999,60,city-car,automatic,2018
+vw polo 1 0 conceptline,1750,vw,gaz,204000,999,50,city-car,manual,2001
+mercedesbenz c 220 d avantgarde aut,29900,mercedes-benz,diesel,100000,2143,170,sedan,automatic,2016
+opel corsa,3200,opel,diesel,179000,1248,75,city-car,manual,2008
+bmw 418 gran coup d pack m,24500,bmw,diesel,157000,1995,150,sedan,manual,2016
+seat ibiza 1 2 12v style,8000,seat,gaz,132502,1198,70,compact,manual,2011
+bmw m550d xdrive auto,65750,bmw,diesel,104000,2993,400,combi,automatic,2017
+toyota chr 1 8 hybrid exclusive p luxury,35250,toyota,hibride-gaz,21500,1798,122,suv,automatic,2021
+bmw 420 gran coup d pack m auto,32000,bmw,diesel,170000,1995,184,sedan,automatic,2015
+opel karl,9990,opel,gpl,74378,999,75,compact,manual,2016
+bmw 525 d,10750,bmw,diesel,203000,2497,177,sedan,manual,2005
+vw scirocco 2 0 tdi sport,20990,vw,diesel,131000,1968,140,coupe,manual,2014
+abarth 595 1 4 tjet competizione,29900,abarth,gaz,5100,1368,180,mini,manual,2020
+citron c3 1 1 sx pack,4750,citroen,gaz,126000,1124,61,city-car,manual,2007
+renault clio sport tourer 1 5 dci confort,8500,renault,diesel,198000,1461,90,combi,manual,2015
+smart fortwo electric drive passion,18499,smart,electric,23020,1000,82,city-car,automatic,2020
+mini countryman cooper auto,29900,mini,gaz,51693,1499,136,compact,automatic,2019
+audi a4 avant,7900,audi,diesel,299732,1896,130,combi,manual,2002
+fiat 500 1 2 sport,8000,fiat,gaz,72500,1242,69,mini,manual,2010
+kia optima 1 7 crdi tx,16990,kia,diesel,90000,1685,136,sedan,manual,2014
+renault laguna break 2 0 dci dynamique s 4control 120g,9300,renault,diesel,260000,1995,150,combi,manual,2013
+seat leon,11990,seat,diesel,177256,1598,105,combi,manual,2014
+mazda 6 2 0 mzrcd comfort,4990,mazda,diesel,247827,1998,120,sedan,manual,2003
+audi a4 avant 2 0 tdi sport,26850,audi,diesel,130000,1968,150,combi,manual,2016
+mini john cooper works,16950,mini,gaz,130000,1598,211,city-car,manual,2012
+ferrari f430,175000,ferrari,gaz,64000,4308,490,cabrio,automatic,2010
+toyota hilux 2 4 d ln90l xcab,7250,toyota,diesel,132000,2446,83,suv,manual,1997
+renault captur 1 0 tce intens,22000,renault,gaz,10678,999,90,suv,manual,2021
+toyota prius 1 8 luxury,32000,toyota,hibride-gaz,38144,1798,136,minivan,automatic,2019
+vw golf,15990,vw,diesel,130000,1598,105,compact,automatic,2015
+volvo xc 40 2 0 d4 rdesign awd,39900,volvo,diesel,32867,1969,190,suv,automatic,2018
+audi a4 1 9 tdi m6 sport,5500,audi,diesel,280000,1896,130,sedan,manual,2004
+vw golf 2 0 tdi gtd dsg,15000,vw,diesel,208946,1968,170,compact,automatic,2009
+dacia duster 1 2 tce prestige,13750,dacia,gaz,107000,1197,125,suv,manual,2014
+citron berlingo,6500,citroen,diesel,363248,1560,90,combi,manual,2011
+peugeot 208 1 6 bluehdi style,12990,peugeot,diesel,108719,1560,100,compact,manual,2016
+renault clio 1 2 16v confort,6490,renault,gaz,203000,1149,75,city-car,manual,2008
+citron ds3 1 6 thp sport chic,9250,citroen,gaz,88000,1598,156,city-car,manual,2010
+mini cooper d,10950,mini,diesel,194000,1560,110,city-car,manual,2010
+ford smax 1 8 tdci titanium 5l,8000,ford,diesel,183716,1753,125,minivan,manual,2006
+opel astra caravan 1 4i 16v club,390,opel,gaz,267000,1389,90,combi,manual,1996
+vw id 3 pro performance 1st plus,45500,vw,electric,10700,500,204,suv,automatic,2020
+audi a5 sportback 2 0 tdi sport,36900,audi,diesel,84000,1968,190,sedan,manual,2018
+seat arona,19990,seat,gaz,20958,999,95,suv,manual,2020
+citron c3 aircross 1 2 puretech cseries,21750,citroen,gaz,13000,1199,110,city-car,manual,2021
+nissan qashqai 1 5 dci nconnecta,21500,nissan,diesel,56203,1461,110,suv,manual,2016
+renault mgane sport tourer 1 5 dci zen,16600,renault,diesel,129757,1461,110,combi,manual,2018
+seat arona 1 0 tsi style,19990,seat,gaz,25622,999,110,suv,manual,2021
+bmw 320,18000,bmw,diesel,265000,1995,177,cabrio,manual,2008
+fiat seicento sx,650,fiat,gaz,117000,899,39,mini,manual,2001
+seat ibiza 1 0 tsi fr,17950,seat,gaz,2458,999,95,city-car,manual,2021
+mini cooper d,9900,mini,diesel,172250,1598,90,city-car,manual,2011
+toyota corolla touring sports 2 0 hybrid luxury white,31500,toyota,hibride-gaz,37029,1987,184,combi,automatic,2019
+fiat panda 1 3 16v mjet 4x4 cross,4750,fiat,diesel,125000,1248,75,mini,manual,2010
+renault mgane 1 5 dci zen,13999,renault,diesel,137000,1461,90,compact,manual,2016
+mini john cooper works standard,15900,mini,gaz,160000,1598,211,city-car,manual,2011
+toyota yaris 1 0 vvti comfort,16250,toyota,gaz,30666,998,72,city-car,manual,2020
+mercedesbenz a 180 d amg line aut,31500,mercedes-benz,diesel,180000,1461,116,city-car,automatic,2018
+fiat 500 0 9 8v twinair sport,8450,fiat,gaz,129000,875,85,city-car,manual,2011
+bmw 120 d,15900,bmw,diesel,193131,1995,177,coupe,manual,2009
+mercedesbenz a 200 cdi be urban aut,21500,mercedes-benz,diesel,92000,2143,136,compact,automatic,2014
+opel corsa 1 3 cdti enjoy ecoflex,6500,opel,diesel,140625,1248,75,city-car,manual,2010
+renault zoe life,10400,renault,electric,58100,,88,mini,automatic,2016
+bmw 650 gran coup i xdrive pack m,45000,bmw,gaz,91098,4395,450,coupe,automatic,2014
+fiat 500l 1 3 mj trekking s s,9999,fiat,diesel,164000,1248,85,combi,manual,2013
+dacia lodgy 1 5 dci confort 7l,11850,dacia,diesel,139000,1461,109,minivan,manual,2013
+toyota aygo 1 0 ac,5990,toyota,gaz,129000,998,68,city-car,manual,2006
+volvo xc 70,6850,volvo,diesel,360795,2401,163,suv,automatic,2002
+mercedesbenz a 200 cdi be amg line,19490,mercedes-benz,diesel,169,2143,136,city-car,manual,2014
+bmw 420 gran coup d pack m auto,27900,bmw,diesel,57885,1995,184,compact,automatic,2014
+bmw 840 gran coup d xdrive pack m,99900,bmw,diesel,43341,2993,340,sedan,automatic,2021
+mercedesbenz cla 180 cdi amg line aut,22850,mercedes-benz,diesel,185000,1461,109,coupe,automatic,2014
+nissan micra 1 5 dci nconnecta s s,13990,nissan,diesel,124473,1461,90,compact,manual,2018
+mazda mx3 1 8,5950,mazda,gaz,167000,1845,136,coupe,manual,1993
+seat ibiza 1 2 12v stylance,4950,seat,gaz,207820,1198,70,city-car,manual,2008
+seat tarraco 2 0 tdi fr dsg,38000,seat,diesel,12942,1968,150,minivan,automatic,2021
+seat ibiza 1 0 style,15390,seat,gaz,23450,999,80,compact,manual,2021
+infiniti q30,24490,infiniti,diesel,1,2143,170,city-car,automatic,2017
+mercedesbenz c 250 d avantgarde aut,31950,mercedes-benz,diesel,111005,2143,204,combi,automatic,2015
+vw polo 1 2 confortline,6250,vw,gaz,110000,1198,70,compact,manual,2007
+seat leon 1 0 ecotsi style s s,18700,seat,gaz,18708,999,115,city-car,manual,2019
+nissan leaf acenta,14900,nissan,electric,83000,,109,compact,automatic,2017
+peugeot 308 sw,15900,peugeot,diesel,121000,1560,120,combi,manual,2016
+renault talisman sport tourer 1 5 dci zen,22250,renault,diesel,55739,1461,110,combi,manual,2018
+renault zoe zen 50 flex,25900,renault,electric,25000,,109,mini,automatic,2021
+opel astra sports tourer 1 6 cdti cosmo s sj18,16250,opel,diesel,112757,1598,110,combi,manual,2016
+alfa romeo 159 sportwagon 1 9 jtdm 16v sportiva,8000,alfa-romeo,diesel,238000,1910,150,combi,manual,2008
+mazda 2 1 3 mzr exclusive,5500,mazda,gaz,182455,1349,75,compact,manual,2010
+nissan qashqai 1 2 digt nconnecta rs ps 18,22900,nissan,gaz,43734,1197,115,suv,manual,2017
+bmw 116 d edynamics advantage,19490,bmw,diesel,47101,1496,116,compact,manual,2017
+audi a5 2 0 tdi business line sline,25500,audi,diesel,103000,1968,190,coupe,manual,2015
+renault mgane coupe 1 5 dci dynamique s,7950,renault,diesel,213000,1461,110,coupe,manual,2011
+bmw 116 d edynamics line sport,17500,bmw,diesel,134909,1598,116,city-car,manual,2016
+peugeot 308 sw 1 5 bluehdi style,18490,peugeot,diesel,133975,1499,130,combi,manual,2018
+land rover discovery 2 5 td5,16800,land-rover,diesel,315000,2495,136,suv,manual,1999
+audi q2 1 6 tdi,24799,audi,diesel,89455,1598,116,suv,manual,2017
+bmw x1 20 d xdrive auto xline,34000,bmw,diesel,96889,1995,190,suv,automatic,2016
+renault mgane break 1 5 dci c authentique,3950,renault,diesel,210000,1461,80,combi,manual,2003
+peugeot 207 1 6 hdi sport,7749,peugeot,diesel,229736,1560,109,city-car,manual,2007
+seat ibiza 1 2 12v stylance,6500,seat,gaz,117000,1198,70,city-car,manual,2009
+infiniti q70,25500,infiniti,diesel,142500,2200,170,sedan,automatic,2015
+mercedesbenz c 300 h avantgarde,37900,mercedes-benz,hibride-diesel,82012,2143,231,combi,automatic,2018
+ford focus 1 0 ecoboost active aut,20490,ford,gaz,33588,998,125,compact,automatic,2019
+vw golf 2 0 tdi highline,18900,vw,diesel,166000,1968,150,coupe,manual,2013
+peugeot 3008,23880,peugeot,diesel,135600,1500,130,suv,automatic,2019
+mercedesbenz c 220 cdi be,21990,mercedes-benz,diesel,166800,2143,170,coupe,manual,2012
+citron c5 x 1 6 hybrid shine pack eeat8,52000,citroen,hibride-gaz,5,1598,225,sedan,automatic,2022
+mercedesbenz gla 220 d amg line,55800,mercedes-benz,diesel,39919,2143,170,suv,automatic,2019
+peugeot 3008 1 6 bluehdi gt line eat6,24990,peugeot,diesel,140000,1560,120,suv,automatic,2017
+nissan qashqai,22900,nissan,diesel,116167,1500,110,suv,manual,2018
+volvo v60 2 4 d6 rdesign awd phev,23965,volvo,hibride-diesel,191000,2400,286,combi,automatic,2015
+renault mgane break 1 5 dci c dynamique,3250,renault,diesel,243000,1461,80,combi,manual,2003
+opel adam 1 4 glam easytronic,13900,opel,gaz,100000,1398,90,city-car,automatic,2018
+renault clio sport tourer,13950,renault,diesel,124785,1461,95,combi,manual,2017
+opel astra 1 6 cdti innovation s s,15500,opel,diesel,113000,1598,110,city-car,manual,2018
+vw golf 1 6 tdi trendline bluemotion,11890,vw,diesel,140000,1598,105,compact,manual,2010
+mercedesbenz a 180 d amg line aut,24750,mercedes-benz,diesel,92567,1461,109,compact,automatic,2017
+honda jazz 1 2 ivtec trend,10500,honda,gaz,82000,1198,90,city-car,manual,2013
+bmw 330,31450,bmw,hibride-gaz,80600,1998,252,sedan,automatic,2018
+peugeot 107 1 0 urban,7450,peugeot,gaz,13278,998,68,mini,manual,2013
+bmw 116 d efficientdynamics,11500,bmw,diesel,195000,1598,116,city-car,manual,2012
+vw tiguan 2 0 tdi highline,30990,vw,diesel,63654,1968,150,suv,manual,2017
+mercedesbenz a 180 d amg line aut,29500,mercedes-benz,diesel,51000,1461,116,compact,automatic,2018
+mercedesbenz e 300 de amg line,59999,mercedes-benz,hibride-diesel,21419,1950,306,sedan,automatic,2019
+nissan qashqai 1 5 dci acenta,17250,nissan,diesel,164247,1461,110,suv,manual,2017
+bmw 225xe active tourer advantage,24450,bmw,hibride-gaz,53686,1499,224,minivan,automatic,2017
+peugeot 308 sw 1 5 bluehdi style,19000,peugeot,diesel,118225,1499,130,combi,manual,2019
+audi q5 55 tfsie quattro sport s tronic,65000,audi,hibride-gaz,19340,1984,367,suv,automatic,2019
+opel corsa 1 2l08 l68,6750,opel,gaz,76000,1229,86,city-car,manual,2011
+fiat tipo 1 3 mjet lounge,11290,fiat,diesel,115600,1248,95,sedan,manual,2016
+toyota aygo 1 0 mmt,6690,toyota,gaz,120000,998,68,city-car,automatic,2006
+skoda octavia break 2 0tdi16v,6000,skoda,diesel,320000,1968,140,combi,manual,2007
+bmw m2 competition auto,69000,bmw,gaz,46900,2979,410,coupe,automatic,2020
+renault mgane sport tourer 1 5 dci zen,15250,renault,diesel,83400,1461,110,combi,manual,2018
+bmw x1 18 d sdrive,15500,bmw,diesel,139000,1995,143,suv,manual,2010
+toyota iq,6980,toyota,gaz,135195,960,68,city-car,manual,2009
+jeep renegade 1 6 mjd limited,21900,jeep,diesel,67368,1598,120,suv,manual,2018
+bmw 216 gran tourer d advantage,29900,bmw,diesel,25439,1496,116,minivan,manual,2021
+toyota aygo 1 0 xplay plus mm,15990,toyota,gaz,5,998,72,city-car,automatic,2022
+audi a3 sportback 1 6 tdi sline,22990,audi,diesel,170000,1598,116,compact,manual,2017
+ford bronco 5 0 v8 custom,25000,ford,gaz,83000,5000,200,suv,automatic,1993
+fiat idea 1 2 16v dynamic,3250,fiat,gaz,184600,1242,80,city-car,manual,2004
+peugeot 308 1 5 bluehdi business line,21900,peugeot,diesel,20886,1499,102,compact,manual,2020
+vw tcross 1 5 tsi style dsg,29000,vw,gaz,10000,1498,150,suv,automatic,2021
+mercedesbenz c 300 d amg line,64950,mercedes-benz,diesel,6791,1992,265,sedan,automatic,2021
+vw golf,8450,vw,gaz,148000,1395,110,compact,manual,2010
+peugeot 3008 1 6 hybrid allure eeat8,40900,peugeot,hibride-gaz,14000,1598,225,suv,automatic,2021
+ford fiesta 1 4 tdci trend,5500,ford,diesel,110536,1399,68,compact,manual,2008
+volvo xc 60 2 0 d3 drive momentum,16450,volvo,diesel,142000,1984,163,suv,manual,2011
+audi a5 2 0 tdi sport,18999,audi,diesel,157632,1968,163,compact,manual,2014
+fiat 500 1 2 lounge,7950,fiat,gaz,125000,1242,69,mini,manual,2009
+renault laguna 1 6 expression,3000,renault,gaz,89500,1598,110,sedan,manual,2002
+mercedesbenz a 180 d amg line,38950,mercedes-benz,diesel,2500,1950,116,compact,manual,2021
+vw new beetle 1 6 tdi design,14560,vw,diesel,196000,1598,105,compact,manual,2014
+honda hrv 1 6idtecru8,22990,honda,diesel,50000,1597,120,suv,manual,2017
+fiat 500c 1 2 lounge,12500,fiat,gaz,64730,1242,69,cabrio,manual,2015
+mini cooper auto,21500,mini,gaz,96195,1499,136,city-car,automatic,2018
+peugeot 108 top 1 2 vti allure,13200,peugeot,gaz,15000,1199,82,mini,manual,2015
+opel zafira 2 0 dti life,6750,opel,diesel,181381,1995,100,minivan,manual,2005
+mitsubishi pajero 2 5tdicv44w v24w,6900,mitsubishi,diesel,296524,2477,99,suv,manual,1996
+renault grand scnic 1 6 dci bose edition 7l,12950,renault,diesel,130000,1598,130,minivan,manual,2013
+smart fortwo electric drive passion,18499,smart,electric,24593,1000,82,city-car,automatic,2020
+fiat tipo station wagon 1 6 mjet lounge j17 dct,18650,fiat,diesel,91000,1598,120,combi,automatic,2018
+opel grandland 1 6 t phev gs line,42750,opel,hibride-gaz,500,1598,225,suv,automatic,2022
+fiat grande punto 1 3 mjet dynamic,5990,fiat,diesel,306363,1248,90,city-car,manual,2008
+porsche boxster 2 7,23900,porsche,gaz,114000,2687,220,cabrio,manual,2002
+audi a4 avant 2 0 tdi sline s tronic,29950,audi,diesel,154900,1968,150,combi,automatic,2018
+peugeot 308 sw 1 2 puretech active pack,20900,peugeot,gaz,17530,1199,110,combi,manual,2021
+peugeot 5008 1 6 bluehdi allure eat6,27800,peugeot,diesel,110000,1560,120,suv,automatic,2018
+audi a1 sportback 1 6 tdi advance,12450,audi,diesel,170000,1598,90,city-car,manual,2013
+audi a1 sportback,18500,audi,diesel,19900,1400,90,compact,manual,2016
+renault mgane 1 5 dci gt line ss,9990,renault,diesel,218000,1461,110,compact,manual,2012
+mercedesbenz e 220 d avantgarde,29990,mercedes-benz,diesel,190000,1950,194,sedan,automatic,2017
+citron c5 1 6 hdi vtr,6750,citroen,diesel,203000,1560,110,sedan,manual,2008
+renault mgane 1 5 blue dci intens,23999,renault,diesel,7200,1461,115,compact,manual,2021
+citron ds4 1 6 ehdi so chic,10750,citroen,diesel,210000,1560,115,compact,manual,2014
+citron c4 cactus 1 2 puretech feel eat6,16490,citroen,gaz,44598,1199,110,compact,automatic,2018
+ford focus sw 1 4 sport,4500,ford,gaz,125000,1388,80,combi,manual,2006
+bmw 116 d edynamics line sport,15750,bmw,diesel,157000,1598,116,compact,manual,2014
+mercedesbenz clk 200 kompressor avantgarde,8100,mercedes-benz,gaz,190000,1998,163,coupe,manual,2003
+seat arona 1 0 tsi style,20450,seat,gaz,3000,999,95,suv,manual,2021
+peugeot 3008 1 6 bluehdi active,24990,peugeot,diesel,91300,1560,120,suv,manual,2017
+ford mondeo sw 1 6 tdci titanium,10900,ford,diesel,172003,1560,115,combi,manual,2012
+citron celyse 1 6 hdi exclusive,10900,citroen,diesel,87763,1560,92,sedan,manual,2014
+opel corsa 1 0 swing,1750,opel,gaz,112000,993,45,city-car,manual,1987
+renault clio,4990,renault,diesel,240737,1461,1,sedan,manual,2011
+mini cooper sd,18650,mini,diesel,164000,1995,143,city-car,manual,2012
+bmw 116 d corporate edition,29990,bmw,diesel,58000,1496,116,compact,manual,2020
+citron c4 cactus 1 6 bluehdi feel,13900,citroen,diesel,108281,1560,100,compact,manual,2017
+peugeot 3008,28900,peugeot,diesel,108988,1498,130,suv,manual,2019
+peugeot 208 1 2 puretech signature,14000,peugeot,gaz,68803,1199,82,compact,manual,2019
+citron c1 1 0 x airdream,5350,citroen,gaz,130000,998,68,city-car,manual,2011
+smart fortwo electric drive passion,18499,smart,electric,24103,1000,82,city-car,automatic,2020
+peugeot 208 1 0 vti active,8950,peugeot,gaz,129980,999,68,city-car,manual,2013
+fiat 500 1 2 lounge s s,12400,fiat,gaz,45801,1242,69,city-car,manual,2017
+mercedesbenz c 200 d avantgarde aut,41000,mercedes-benz,diesel,24320,1598,160,combi,automatic,2020
+audi a3 sportback 1 2 tfsi attraction,9950,audi,gaz,130000,1197,105,compact,manual,2010
+mercedesbenz a 180 d progressive aut,37500,mercedes-benz,diesel,32000,1950,116,compact,automatic,2021
+audi a3 sportback 1 6 tdi,19990,audi,diesel,110000,1598,110,sedan,manual,2017
+mercedesbenz c 300 de amg line,61950,mercedes-benz,hibride-diesel,9000,1950,306,combi,automatic,2021
+fiat 500 1 2 pop,10250,fiat,gaz,66825,1242,69,mini,manual,2016
+smart forfour electric drive prime,18900,smart,electric,18900,,82,cabrio,automatic,2019
+peugeot 208 1 6 bluehdi style,12300,peugeot,diesel,72898,1560,75,city-car,manual,2017
+saab 900 cabrio turbo,24500,saab,gaz,84000,1984,175,cabrio,manual,1992
+volvo xc 60 2 0 d4 momentum,34800,volvo,diesel,54500,1969,190,suv,manual,2016
+smart forfour,18500,smart,electric,24992,500,82,cabrio,automatic,2019
+peugeot 2008 1 2 puretech signature,17350,peugeot,gaz,38906,1199,110,suv,manual,2019
+hyundai i20 1 1 crdi access bluetooth,13500,hyundai,diesel,77000,1120,75,city-car,manual,2017
+opel corsa 1 3 cdti dynamic,11490,opel,diesel,84000,1248,95,compact,manual,2017
+fiat punto 0 9 8v twinair lounge start stop,7990,fiat,gaz,124931,875,85,city-car,manual,2013
+bmw 120 d,16500,bmw,diesel,1850266,1995,177,coupe,manual,2009
+mercedesbenz c 220,5500,mercedes-benz,diesel,250000,2148,143,combi,automatic,2000
+hyundai i20 1 1 crdi comfort,11190,hyundai,diesel,115599,1120,75,compact,manual,2017
+mitsubishi asx 1 6 did intense black edition,19800,mitsubishi,diesel,110300,1560,114,suv,manual,2017
+peugeot 208 1 6 ethp gti,17900,peugeot,gaz,90000,1598,208,city-car,manual,2016
+opel corsa 1 3 cdti business edition,13900,opel,diesel,117125,1248,95,city-car,manual,2017
+mercedesbenz a 180 cdi be edition style,17990,mercedes-benz,diesel,155960,1461,109,compact,manual,2015
+tesla model 3 performance dual motor awd,52900,tesla,electric,33245,,513,sedan,automatic,2019
+peugeot 206 1 4 hdi colorline,1599,peugeot,diesel,352000,1398,68,city-car,manual,2003
+renault clio 1 5 dci confort,10950,renault,diesel,180000,1461,90,city-car,manual,2015
+bmw 116 d edynamics advantage,23250,bmw,diesel,85178,1496,116,compact,manual,2017
+volvo v60 2 0 d2 rdesign,29900,volvo,diesel,36500,1969,120,combi,manual,2018
+renault mgane cc 1 5 dci gt line ss,17000,renault,diesel,94000,1461,110,cabrio,manual,2014
+volvo v90 2 0 t8 phev rdesign awd,64400,volvo,hibride-gaz,2000,1969,392,combi,automatic,2021
+abarth 595c 1 4 tjet pista mta,24990,abarth,gaz,18000,1368,160,cabrio,automatic,2017
+mercedesbenz cla 180 d amg line,23990,mercedes-benz,diesel,75000,1461,109,sedan,manual,2017
+renault clio 1 2 tce dynamique s,4150,renault,gaz,180000,1149,100,city-car,manual,2008
+citron ec4 feel pack,42500,citroen,electric,5,1200,136,sedan,automatic,2022
+porsche macan,95500,porsche,gaz,17001,1984,265,suv,automatic,2021
+bmw 320,13350,bmw,diesel,237000,1995,177,coupe,automatic,2007
+renault clio 1 5 dci extreme,2590,renault,diesel,262000,1461,100,city-car,manual,2005
+bmw 116 d advantage,25990,bmw,diesel,27325,1496,116,sedan,manual,2020
+renault captur 1 5 dci exclusive xmod,17900,renault,diesel,113000,1461,110,suv,manual,2018
+peugeot 206 sw,2600,peugeot,gaz,177000,1360,75,combi,manual,2002
+renault laguna break 1 9 dci dynamique,2500,renault,diesel,265880,1870,120,combi,manual,2005
+ford mustang mache alargada awd,67900,ford,electric,8900,,351,suv,automatic,2021
+renault mgane 1 5 dci intens,19400,renault,diesel,113273,1461,110,compact,manual,2017
+peugeot 5008 1 6 bluehdi gt line grip control eat6,25550,peugeot,diesel,168841,1560,120,minivan,automatic,2017
+vw polo,13950,vw,diesel,96221,1422,90,city-car,manual,2015
+renault captur 0 9 tce,16250,renault,gaz,39990,898,90,suv,manual,2015
+ford fiesta 1 0 tivct titanium,8990,ford,gaz,105300,998,80,city-car,manual,2014
+bmw 118,31850,bmw,gaz,22248,1499,136,compact,automatic,2021
+hyundai i20 1 1 crdi one,8970,hyundai,diesel,154618,1120,75,city-car,manual,2014
+peugeot 508 sw 1 6 ehdi allure 2tronic 105g,12500,peugeot,diesel,229000,1560,115,combi,automatic,2013
+mercedesbenz glc 300,78500,mercedes-benz,hibride-diesel,9700,1950,320,coupe,automatic,2021
+renault mgane break 1 5 dci dynamique luxe,2850,renault,diesel,355718,1461,85,combi,manual,2006
+bmw 116 d advantage auto,17950,bmw,diesel,132000,1496,116,compact,automatic,2017
+mercedesbenz slk 200 k,20980,mercedes-benz,gaz,81032,1796,183,cabrio,manual,2010
+renault zoe life 40 flex,14490,renault,electric,35000,,92,mini,automatic,2016
+renault clio,13490,renault,diesel,150307,1461,95,compact,manual,2018
+microcar m go,11450,microcar,diesel,9000,492,8,city-car,automatic,2020
+audi a4 avant 2 0 tdi business line plusmultitronic,12990,audi,diesel,289000,1968,143,combi,automatic,2011
+vw scirocco 1 4 tsi sport,10990,vw,gaz,165000,1395,125,coupe,manual,2010
+vw golf 2 0 tdi confortline dsg,19000,vw,diesel,130000,1968,150,compact,automatic,2015
+peugeot 2008 1 5 bluehdi allure,19750,peugeot,diesel,138141,1499,102,suv,manual,2019
+renault zoe limited 40,23299,renault,electric,14580,400,109,mini,automatic,2020
+peugeot e2008 allure,34990,peugeot,electric,17872,500,136,suv,automatic,2020
+bmw z3,22500,bmw,gaz,139491,2172,163,cabrio,automatic,2002
+peugeot 3008 2 0 bluehdi gt line,26450,peugeot,diesel,166000,1997,150,suv,manual,2018
+bmw 116 d edynamics advantage,17950,bmw,diesel,151000,1496,116,compact,manual,2017
+vw passat variant 1 9 tdi confortline,5450,vw,diesel,259000,1896,100,combi,manual,2004
+volvo v50 1 6 d kinetic,7750,volvo,diesel,160000,1560,109,combi,manual,2008
+ford focus sw 1 4 sport,2900,ford,gaz,224000,1388,80,combi,manual,2005
+citron c4 grand picasso 1 6 bluehdi feel eat6,20900,citroen,diesel,138000,1560,120,minivan,automatic,2017
+toyota corolla hatchback 1 3 xli,1665,toyota,gaz,146100,1332,88,sedan,manual,1993
+renault mgane sport tourer 1 5 dci intens,18200,renault,diesel,50154,1461,110,combi,manual,2017
+peugeot 108 1 0 vti style,12750,peugeot,gaz,16200,998,72,mini,manual,2021
+seat leon,10500,seat,diesel,155350,1598,105,compact,manual,2010
+smart fortwo 1 0 71 passion,10990,smart,gaz,84250,999,71,mini,manual,2017
