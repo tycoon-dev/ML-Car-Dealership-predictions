@@ -1,6 +1,6 @@
 # ML-Car-Dealership-predictions
 A python implementation predicting car prices / age / fuel type. Data scrapped from StandVirtual and used for training the model.
-
+## https://colab.research.google.com/github/tycoon-dev/ML-Car-Dealership-predictions/blob/main/Projeto_IA.ipynb
 
 A python implementation predicting car prices /age / fuel type.
 
